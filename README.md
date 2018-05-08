@@ -8,7 +8,7 @@ For now we just have `date`, `time`, `temperature`, `barometer` and `altimeter. 
 
 <br>
 Front <br>
-------------
+
 ![project](http://oi66.tinypic.com/1212vj9.jpg)<br>
 
 Back <br>
